@@ -3,6 +3,7 @@
     color: azure;
     text-align: center;
     padding: 15px;
+    border-radius: 10px;
     
 }
 
@@ -11,6 +12,7 @@
     margin: 0;
     padding: 0;
     background-color: antiquewhite;
+    border-radius: 10px;
 }
 .img{
     max-width: 50%;
@@ -25,4 +27,5 @@
     margin: 20px;
     text-align: center;
     font-size: 18px;
+    border-radius: 10px;
 }
